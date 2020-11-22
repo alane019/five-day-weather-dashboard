@@ -16,7 +16,7 @@ This is a single page web dashboard that will display the five-day weather forca
   - [License](#license) 
 
 ## Examples
-Demo is viewable here: <https://alane019.github.io/daily-work-planner/>
+Demo is viewable here: <https://alane019.github.io/five-day-weather-dashboard/>
 
 
 ## Screenshots
