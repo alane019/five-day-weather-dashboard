@@ -21,7 +21,7 @@ Demo is viewable here: <https://alane019.github.io/five-day-weather-dashboard/>
 
 ## Screenshots
 
-![EXAMPLE-SCREENSHOT](./assets/images/screenshot.jpg)
+![EXAMPLE-SCREENSHOT](./assets/images/screenshot.p)
 
 ## External Resources
   * Moment.js 

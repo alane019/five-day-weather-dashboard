@@ -406,10 +406,10 @@ footer { padding: 15px; }
 	.currentversion-top-nav a { padding: 0 30px; }
 } */
 
-/*
+
 @media screen and (max-width: 1199px) {
 	.currentversion-flex-row.flex-content-row { display: block;	}
-}  */
+}  
 
 @media screen and (max-width: 992px) and (min-width: 768px) {
 	.currentversion-site-header,
